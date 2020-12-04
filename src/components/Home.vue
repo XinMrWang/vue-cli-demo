@@ -3,7 +3,7 @@
     <el-header>
       <div>
         <img alt="#" src="@/assets/logo.png">
-        <span>嘿嘿嘿</span>
+        <span>这里是首页</span>
       </div>
       <el-button type="info" @click="logout">退出</el-button>
     </el-header>
